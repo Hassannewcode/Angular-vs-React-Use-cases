@@ -2,7 +2,10 @@
   
 *The Angular and React use cases*
 
-# Last updated Aug 28 2025 Showdown (255-Point Analysis)
+# Last updated Aug 28, 2025 
+
+~(255-Point Analysis)
+
 ---
 
 ## Executive Summary & TL;DR
