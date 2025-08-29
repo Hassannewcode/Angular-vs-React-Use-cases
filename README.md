@@ -7,8 +7,10 @@
 *(255-Point Analysis)*
 ---
 **_NOTE:_** Search what you are looking for using ``ctrl + f`` and then type in the first word of what you are looking for. 
+
 If you cant find it, please know that whatever your looking for is not yet added in this list.
-   ⠀
+ 
+   -- ⠀
 Continue below: 
    ⠀
 ---
