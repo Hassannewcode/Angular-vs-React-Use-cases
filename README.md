@@ -417,8 +417,7 @@ You cannot make a *bad* choice between these two excellent technologies in 2025.
 
 
 
-
-Of the **360 data points** analyzed across 6 major categories, here's the final score:
+**360 data points** analyzed across 6 major categories, here's the final score:
 
 ### 🏆 Final Score: Wins by Technology
 
