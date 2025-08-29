@@ -10,7 +10,7 @@
 
 If you cant find it, please know that whatever your looking for is not yet added in this list.
  
-   -- ⠀
+--
 Continue below: 
    ⠀
 ---
