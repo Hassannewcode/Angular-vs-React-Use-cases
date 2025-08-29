@@ -6,6 +6,9 @@
 
 *(255-Point Analysis)*
 
+
+# NOTE: *Search what you are looking for using ctrl + f and then type in the first word of what you are looking for.*
+
 ---
 
 ## Executive Summary & TL;DR
